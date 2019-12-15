@@ -14,4 +14,4 @@ Exemple
 
 ```Longueur du mot de passe ? 12```
 
-```Bwq&9JqJiZyE```
+```wB:zy$-Wb]QO```
