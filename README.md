@@ -12,10 +12,7 @@ Pass-Generator
 Usage
 =
 
-python genpass.py <number of characters>
-
-*Example usage:*
-    python genpass.py 8
+python genpass.py \<number of characters\>
 
 Exemple
 =
