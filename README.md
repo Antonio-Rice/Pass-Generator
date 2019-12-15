@@ -9,9 +9,17 @@ Pass-Generator
 
 >> Pass-Generator is a tool that allows you to generate a password of the desired length containing lowercase, uppercase, numbers and special characters (!?+-_:;[]%#$&@).
 
+Usage
+=
+
+python genpass.py <number of characters>
+
+*Example usage:*
+    python genpass.py 8
+
 Exemple
 =
 
-```Longueur du mot de passe ? 12```
+```python genpass.py 16```
 
-```wB:zy$-Wb]QO```
+```sf11Gdj5$d#tCJSe```
